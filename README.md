@@ -1,4 +1,4 @@
-# Turin Shared Micromobility Analysis
+# Turin shared mobility analysis (msc course project)
 
 Reproducible Python workflow for analysing shared e-scooter trips in Turin. It combines Lime, Voi and Bird trip records, cleans and standardises them, then produces temporal, spatial, parking-duration and financial outputs.
 
