@@ -1,0 +1,15 @@
+.DS_Store
+.venv/
+__pycache__/
+*.py[cod]
+
+# Generated analysis artefacts
+results/
+Practical part/Work/Figures/
+Practical part/Work/Tables/
+Practical part/Work/QGIS_exports/
+
+# Raw operator data can be large or restricted
+Practical part/Work/Operator A_Lime/*.csv
+Practical part/Work/Operator B_Voi/*.csv
+Practical part/Work/Operator C_Bird/*.csv

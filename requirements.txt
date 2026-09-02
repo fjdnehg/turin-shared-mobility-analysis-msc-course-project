@@ -1,0 +1,7 @@
+pandas>=2.1
+numpy>=1.26
+matplotlib>=3.8
+geopandas>=0.14
+shapely>=2.0
+folium>=0.15
+branca>=0.7
